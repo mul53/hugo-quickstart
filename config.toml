@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Blog"
+theme = "ananke"
+
+SectionPagesMenu = "main"
+
+[params]
+    featured_image = "/images/header-bg2.jpg"
+    
